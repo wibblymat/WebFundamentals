@@ -1,7 +1,3 @@
----
-layout: manifest
-permalink: /manifest.json
----
 {
   "short_name": "Web Fundamentals",
   "name": "Google Developers - Web Fundamentals",
